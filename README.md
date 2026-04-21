@@ -1,4 +1,4 @@
-NLP-Based SMS Spam Detection
+***NLP-Based SMS Spam Detection***
 
 
 A simple NLP project to classify SMS messages as Spam or Ham using text preprocessing and TF-IDF.
